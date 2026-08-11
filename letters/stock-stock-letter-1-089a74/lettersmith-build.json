@@ -1,0 +1,14 @@
+{
+  "schema_version": 12,
+  "project_id": "c8afe8ce-2e39-4538-b98f-0980abdac932",
+  "source_fingerprint": "ce52fe90e31e9673e0bdbc5a900188ad437801ddd9aa7b15dcdd945847fb4762",
+  "font_export": {
+    "embedded": [
+      "Papyrus"
+    ],
+    "files": [
+      "ls-font-1-1-895fdea742cd.ttf"
+    ],
+    "fallback": []
+  }
+}
